@@ -6,11 +6,11 @@ Java Neural Network is for people to understand how gradient decent in a neural 
 
 The key training methods of this project are the LearnRecur and LearnRecurGPU methods of the Learn class. These methods will take in untrained weights of a neural network and train them on a given numerical data set.
 
-The key methods to use for a trained neural network are the fire method of the NeuralNetwork class which will take the input of the neural network and compute the neural networks precieved correct output based on the input. This neural network could contain random weights to produce random outputs based on the inputs to the neural network or it could use trained weights to a dataset from a file or double[][][] array of weights. 
+The key methods to use for a trained neural network are the fire method of the NeuralNetwork class which will take the input of the neural network and compute the neural networks perceived correct output based on the input. This neural network could contain random weights to produce random outputs based on the inputs to the neural network or it could use trained weights to a dataset from a file or double[][][] array of weights.
 
 ### Prerequisites
 
-The computer running this code must already be running java and must have the abuility to compile java code in an IDE or text editor.
+The computer running this code must already be running java and must have the ability to compile java code in an IDE or text editor.
 
 ### Installing
 
@@ -79,8 +79,8 @@ What is the actual value of Math.cos(0.65)?
 
 ## Running the tests
  
- You can run this test by downloading all of the files in this project and coppying the above code into your main java file.
-
+ You can run this test by downloading all the files in this project and copying the above code into your main java file.
+ 
 ## Deployment
 
 This neural network can only output data in the range from 0 to 1 so all data should be normalized to that range for best results. This neural network is free to use with no legal restrictions.
