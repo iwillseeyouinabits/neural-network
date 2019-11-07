@@ -10,11 +10,11 @@ The key methods to use for a trained neural network are the fire method of the N
 
 ### Prerequisites
 
-The computer running this code must already be running java and must have the ability to compile java code in an IDE or text editor.
+The computer running this code must already be running java and must have the ability to compile java code in an IDE or text editor. One will also need to be running a workspace with selenium API installed
 
 ### Installing
 
-This code should be put in a text editor or IDE and added to a java file with a main method to run the code.
+This code should be put in a text editor or IDE and added to a java file with a main method to run the code. One will also need to run this code in a workspace running selenium.
 
 an example main method may be to train a neural network to approximate the Math.cos() method in java
 
